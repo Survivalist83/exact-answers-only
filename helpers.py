@@ -1,0 +1,1 @@
+strHelpersWorking = 'The "Helpers" file is properly connected :)'
